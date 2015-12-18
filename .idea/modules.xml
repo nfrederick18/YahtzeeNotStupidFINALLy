@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/YahtzeeFiveNotStupid/YahtzeeFiveNotStupid.iml" filepath="$PROJECT_DIR$/YahtzeeFiveNotStupid/YahtzeeFiveNotStupid.iml" />
+      <module fileurl="file://$PROJECT_DIR$/YahtzeeFourNotStupid/YahtzeeFourNotStupid.iml" filepath="$PROJECT_DIR$/YahtzeeFourNotStupid/YahtzeeFourNotStupid.iml" />
+      <module fileurl="file://$PROJECT_DIR$/YahtzeeNotStupid.iml" filepath="$PROJECT_DIR$/YahtzeeNotStupid.iml" />
+      <module fileurl="file://$PROJECT_DIR$/YahtzeeOneNotStupid/YahtzeeOneNotStupid.iml" filepath="$PROJECT_DIR$/YahtzeeOneNotStupid/YahtzeeOneNotStupid.iml" />
+      <module fileurl="file://$PROJECT_DIR$/YahtzeeThreeNotStupid/YahtzeeThreeNotStupid.iml" filepath="$PROJECT_DIR$/YahtzeeThreeNotStupid/YahtzeeThreeNotStupid.iml" />
+      <module fileurl="file://$PROJECT_DIR$/YahtzeeTwoNotStupid/YahtzeeTwoNotStupid.iml" filepath="$PROJECT_DIR$/YahtzeeTwoNotStupid/YahtzeeTwoNotStupid.iml" />
+    </modules>
+  </component>
+</project>
